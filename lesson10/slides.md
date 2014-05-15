@@ -11,10 +11,20 @@ Kit Yuen & Mart van de Ven
 ## Agenda
 <aside class="notes"></aside>
 
+* Work with bugs
 * Collection Of Data
 * Manipulating Collections
 * Carousel
 * Final Project Wireframe
+
+
+
+## Work with bugs
+<aside class="notes">kit ~ 10 min</aside>
+
+When something doesn't look like expected. What should i do?
+
+_Ans: Chrome Inspector!_
 
 
 
