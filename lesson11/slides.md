@@ -30,13 +30,13 @@ CSS
 
 ```
 #cards {
-  background-image: url('http://ga-students.github.io/FEWD_HK_4/lesson11/labs/matching/images/classic-playing-cards.png');
+  background-image: url('http://ga-students.github.io/FEWD_HK_5/lesson11/labs/matching/images/classic-playing-cards.png');
   width: 950px;
   height: 392px;
 }
 
 #clubKing {
-  background-image: url('http://ga-students.github.io/FEWD_HK_4/lesson11/labs/matching/images/classic-playing-cards.png');
+  background-image: url('http://ga-students.github.io/FEWD_HK_5/lesson11/labs/matching/images/classic-playing-cards.png');
   width: 71px;
   height: 96px;
   background-position: -877px -1px;
